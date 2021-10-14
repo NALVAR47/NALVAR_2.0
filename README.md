@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/NALVAR47">NALVAR</a> to make it p
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NALVAR47/NALVAR_2.0 ) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NALVAR47/LizaMwol?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Chunkindepadayali/LizaMwol?v=1)
   
 ### The Hard Method
 ```js
