@@ -261,8 +261,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐋𝐈𝐙𝐀 𝐌𝐖𝐎𝐋࿐ ~______~*' +
-                                    '\n\n*🚫 ' + error + '*\n\n```Report errors\njoin https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z```'
+                                await conn.sendMessage(conn.user.jid, '*~_________~  𝐍𝐀𝐋𝐕𝐀𝐑 𝐁𝐎𝐓 𝟐.𝟎࿐ ~______~*' +
+                                    '\n\n*Nalvar ' + Bot + '*\n\n```By\njoin Naishan X Ajal```'
                                     , MessageType.text);
                             }
                         }
