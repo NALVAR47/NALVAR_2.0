@@ -1,14 +1,14 @@
 {
-    "name": "Liza-Mwol",
-    "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkinde_padayali with Baileys.",
-    "logo": "https://i.imgur.com/2nYs8dN.jpg",
-    "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "website":   "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "success_url": "https://github.com/Chunkindepadayali/LIZA-MWOL",
+    "name": "NALVAR_2.0",
+    "description": "NALVAR_2.0 is the Modified Version of NALVAR, Made By Ajal with Naishan.",
+    "logo": "https://github.com/NALVAR47/NALVAR_2.0/blob/master/NALVAR.jpg", 
+    "keywords": ["whatsapp", "userbot", "NALVAR", "WhatsAsena", "2.0", "bot", "ai"],
+    "repository": "https://github.com/NALVAR47/NALVAR_2.0",
+    "website":   "https://github.com/NALVAR47/NALVAR_2.0",
+    "success_url": "https://github.com/NALVAR47/NALVAR_2.0",
     "stack": "container",
     "env": {
-        "LIZA_SESSION": {
+        "NALVAR_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
@@ -19,6 +19,7 @@
         "LANGUAGE": {
             "description": "Bot language.English => en",
             "required": true,
+            
             "value": "en"
         },
         "BGM_FILTER": {
@@ -135,7 +136,7 @@
             "value": "  𝐋𝐈𝐙𝐀 𝐌𝐖𝐎𝐋࿐  \n\n   *ωнαтsαρρ вσт™*   \n"
         },
         "WORK_TYPE": {
-            "description": "Liza Mwol Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "NALVAR_2.0 Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -155,7 +156,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```Nalvar_bot```\n\n```coded by Naishan```\n\n```wa.me/918590479072\n"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
